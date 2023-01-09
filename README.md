@@ -5,8 +5,8 @@
 ## Demonstration Pages
 > click the picture.
 <div align="center">
-   <a href="https://vincezh2000.github.io/vincezh/public_assests/eternity/index.html">
-   <img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/eternity/demo.jpg" width="600" />
+   <a href="https://vincezh2000.github.io/vincezh/public_assests/eternity_demo/index.html">
+   <img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/eternity_demo/demo.jpg" width="600" />
    </a>
 </div>
 
