@@ -3,33 +3,20 @@
 
 
 ## Demonstration Pages
-
+> click the picture.
 <div align="center">
    <a href="https://vincezh2000.github.io/vincezh/public_assests/eternity/index.html">
    <img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/eternity/demo.jpg" width="600" />
    </a>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-## Features
-
-
-## Game Demo Screenshots
-
-<p align="center">
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/navvy_man_demo/demo10.png" width="450" />
-</p>
-
 ## Installation
 
-### Download From Official Releases and Requirment
-
-You can visit the download pages of [EasyX](https://easyx.cn/), [MFC](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) and [Visual C++ 6.0](https://winworldpc.com/product/visual-c/6x) (Can be replaced with high version of visual studio) to easily install them. Open this project in Visual C++ 6.0 and then run [挖地小子.exe](https://github.com/vincezh2000/Navvy-Man/blob/main/main/挖地小子.exe).
-
-**Windows** operation system only according to the usage of MFC!
+```bash
+git clone clhttps://github.com/vincezh2000/the-jianghu.git
+cd the-jianghu
+open index.html
+```
 
 ## Homepage
 
